@@ -8,19 +8,19 @@ export function FaqSection() {
     const items = [
         {
             icon: SparklesIcon,
-            title: 'What is FlowAI?',
+            title: 'What is ChatDeck?',
             content:
-                'FlowAI is an AI-powered customer support chatbot trained specifically on YOUR website content. Like ChatGPT, but for your business — it learns from your help docs, product guides, blog posts, PDFs, and FAQs to provide accurate, context-rich answers to your customers 24/7. No coding required.'
+                'ChatDeck is an AI-powered customer support chatbot trained specifically on YOUR website content. Like ChatGPT, but for your business — it learns from your help docs, product guides, blog posts, PDFs, and FAQs to provide accurate, context-rich answers to your customers 24/7. No coding required.'
         },
         {
             icon: LinkIcon,
-            title: 'How does FlowAI train on my content?',
+            title: 'How does ChatDeck train on my content?',
             content:
-                'Simply connect your website, upload your documentation, or paste links to your help resources. FlowAI absorbs knowledge from unlimited websites, PDFs, help docs, and FAQs. The AI chatbot then uses this information to provide accurate, on-brand responses tailored to your specific business.'
+                'Simply connect your website, upload your documentation, or paste links to your help resources. ChatDeck absorbs knowledge from unlimited websites, PDFs, help docs, and FAQs. The AI chatbot then uses this information to provide accurate, on-brand responses tailored to your specific business.'
         },
         {
             icon: SettingsIcon,
-            title: 'How long does it take to set up FlowAI?',
+            title: 'How long does it take to set up ChatDeck?',
             content:
                 'Minutes, not weeks! Our no-code setup is as simple as: Connect → Train → Publish. You can have your AI chatbot live on your website in under 10 minutes. No developers or complicated workflows needed — just point us to your content and we handle the rest.'
         },
@@ -28,7 +28,7 @@ export function FaqSection() {
             icon: ShieldCheckIcon,
             title: 'What happens when the chatbot can\'t answer a question?',
             content:
-                'FlowAI includes Smart Escalation. When the AI encounters a complex query it can\'t confidently answer, it seamlessly hands off the conversation to a human agent with the full chat history included. This ensures your customers always get the help they need without frustration.'
+                'ChatDeck includes Smart Escalation. When the AI encounters a complex query it can\'t confidently answer, it seamlessly hands off the conversation to a human agent with the full chat history included. This ensures your customers always get the help they need without frustration.'
         },
         {
             icon: HeadsetIcon,
@@ -44,7 +44,7 @@ export function FaqSection() {
                     Frequently Asked Questions
                 </h2>
                 <p className="text-lg md:text-xl text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto">
-                    Everything you need to know about FlowAI and how it can transform your business.
+                    Everything you need to know about ChatDeck and how it can transform your business.
                 </p>
             </div>
             <Accordion type='single' collapsible className='max-w-4xl mx-auto' defaultValue='item-1'>

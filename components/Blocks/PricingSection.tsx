@@ -9,7 +9,7 @@ import { useState } from 'react'
 const plans = [
     {
         name: 'Free',
-        description: 'Perfect for testing FlowAI on your personal website',
+        description: 'Perfect for testing ChatDeck on your personal website',
         monthlyPrice: 0,
         yearlyPrice: 0,
         features: [
@@ -31,7 +31,7 @@ const plans = [
             '3 AI Chatbots',
             '1,000 conversations/month',
             'Train on unlimited websites & docs',
-            'Remove FlowAI branding',
+            'Remove ChatDeck branding',
             'Integrations (Slack, Zapier)',
             'Priority email support'
         ],

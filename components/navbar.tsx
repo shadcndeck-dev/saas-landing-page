@@ -51,7 +51,7 @@ export const Navbar = () => {
 
                             </div>
                             <span className="text-lg font-semibold text-gray-900 dark:text-white">
-                                FlowAI
+                                ChatDeck
                             </span>
                         </Link>
 

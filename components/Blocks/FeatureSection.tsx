@@ -16,13 +16,13 @@ export function FeaturesSection() {
         {
             title: "Trained On Your Own Content",
             description:
-                "FlowAI absorbs knowledge from your website, help docs, product guides, blog posts, PDFs, and FAQs — ensuring context-rich, accurate responses your customers can trust.",
+                "ChatDeck absorbs knowledge from your website, help docs, product guides, blog posts, PDFs, and FAQs — ensuring context-rich, accurate responses your customers can trust.",
             icon: <BookOpen />,
         },
         {
             title: "24/7 Real-Time Support",
             description:
-                "Never miss a single customer again. From midnight queries to weekend pre-sales questions, FlowAI handles it instantly, anytime, anywhere.",
+                "Never miss a single customer again. From midnight queries to weekend pre-sales questions, ChatDeck handles it instantly, anytime, anywhere.",
             icon: <Clock />,
         },
         {
@@ -44,7 +44,7 @@ export function FeaturesSection() {
         {
             title: "Smart Escalation",
             description:
-                "Complex queries? No problem. FlowAI hands off conversations to human agents with full chat history included.",
+                "Complex queries? No problem. ChatDeck hands off conversations to human agents with full chat history included.",
             icon: <Users />,
         },
     ];
@@ -58,7 +58,7 @@ export function FeaturesSection() {
                 transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
             >
                 <h2 className="text-4xl md:text-5xl font-bold mb-4 text-neutral-800 dark:text-neutral-100">
-                    Why Choose FlowAI?
+                    Why Choose ChatDeck?
                 </h2>
                 <p className="text-lg md:text-xl text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto">
                     Experience the future of customer support with AI that actually understands your business.

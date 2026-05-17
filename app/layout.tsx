@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FlowAI - AI Agent Platform",
-  description: "Build powerful AI agents with FlowAI",
+  title: "ChatDeck - AI Agent Platform",
+  description: "Build powerful AI agents with ChatDeck",
 };
 
 export default function RootLayout({

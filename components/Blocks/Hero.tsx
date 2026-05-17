@@ -54,7 +54,7 @@ const Hero = () => {
             initial="hidden"
             animate="visible"
         >
-            {/* Introducing FlowAI */}
+            {/* Introducing ChatDeck */}
             <motion.div
                 className="flex items-center justify-center"
                 variants={fadeUpVariants}
