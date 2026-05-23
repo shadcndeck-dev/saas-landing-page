@@ -13,7 +13,7 @@
 ---
 
 <!-- Replace with your actual screenshot -->
-[![ChatDeck Preview](<img width="5000" height="2625" alt="OG Images-04 jpg" src="https://github.com/user-attachments/assets/a6201e20-3900-4dad-98c1-8618ac4bbef9"/>)](https://www.shadcndeck.com/templates/chatdeck-saas-landing-page)
+[<img width="5000" height="2625" alt="ChatDeck Preview" src="https://github.com/user-attachments/assets/240e2f51-0f6d-41b8-8aff-b8c3975f2cf1" />](https://www.shadcndeck.com/templates/chatdeck-saas-landing-page)
 
 ---
 
@@ -22,7 +22,6 @@
 **[View Live Demo →](saas-landing-page-ten-teal.vercel.app)**
 
 ---
-
 ## Why ChatDeck?
 
 Most [shadcn landing page templates](https://www.shadcndeck.com/templates) are either too generic or too opinionated. ChatDeck gives you a clean, conversion-focused foundation that works for any SaaS product.
@@ -31,6 +30,51 @@ Most [shadcn landing page templates](https://www.shadcndeck.com/templates) are e
 - ✅ Built with the tools you already use — Next.js, Shadcn UI, TypeScript, Tailwind
 - ✅ Every section is independently editable — no tangled dependencies
 - ✅ Designed for real launches, not just portfolios
+
+---
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <a href="https://saas-landing-page-ten-teal.vercel.app/">
+    <img src="https://github.com/user-attachments/assets/f586134a-a40c-4d56-a746-303659a5cf07" alt="Hero Section" width="100%" />
+  </a>
+  <br/>
+  <a href="https://saas-landing-page-ten-teal.vercel.app/"><strong>Hero Section</strong></a>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://saas-landing-page-ten-teal.vercel.app/#features">
+        <img src="https://github.com/user-attachments/assets/ea7cd758-5f7d-4ca6-9b2e-ecb9617662d2" alt="Feature Section" width="100%" />
+      </a>
+      <br/>
+      <a href="https://saas-landing-page-ten-teal.vercel.app/#features"><strong>Feature Section</strong></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://saas-landing-page-ten-teal.vercel.app/#testimonials">
+        <img src="https://github.com/user-attachments/assets/e32dd1b9-8b99-40c4-a585-2528b1b35641" alt="Testimonial" width="100%" />
+      </a>
+      <br/>
+      <a href="https://saas-landing-page-ten-teal.vercel.app/#testimonials"><strong>Testimonial</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://saas-landing-page-ten-teal.vercel.app/#faq">
+        <img src="https://github.com/user-attachments/assets/df3928f7-decd-4e7a-9f05-835e738e4d44" alt="FAQ Section" width="100%" />
+      </a>
+      <br/>
+      <a href="https://saas-landing-page-ten-teal.vercel.app/#faq"><strong>FAQ Section</strong></a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/5f7536c9-a8f2-437b-bbbd-afa1f77d537f" alt="Dark Mode" width="100%" />
+      <br/>
+      <strong>Dark Mode</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
